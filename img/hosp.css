@@ -1,0 +1,60 @@
+body{
+	background: url(https://images.unsplash.com/photo-1519494140681-8b17d830a3e9?ixlib=rb-0.3.5&s=4ba09aa340a1626fc49ae2fd479aa34b&auto=format&fit=crop&w=753&q=80);
+	/*background-color: #81bcc9;*/
+	background-size: cover;
+	background-position: center;
+	color: #333438;
+	font-family: 'Montserrat', sans-serif;
+}
+
+html{
+	height: 100%;
+}
+
+.content{
+	text-align: center;
+	text-transform: uppercase;
+	padding-top: 0%;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+	
+}
+
+hr{
+	width: 400px;
+	border-top: 1px solid #333438;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.navbar-default {
+    background-color: #d8d8d8;
+ 
+}
+
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-brand {
+    color: #131212;
+}
+
+.jumbotron{
+	color: #131212;
+	background: rgba(85,85,85,0.3);
+
+
+}
+
+h4{
+	font-weight: 800;
+} 
+
+.test{
+	border: 1px solid black;
+	background: pink;
+}
+
+.carousel {
+    position: relative;
+    /*margin-left: 30%;
+    margin-right: 25%;
+    */border-radius: 30px 30px 30px 30px;
+    overflow: hidden;
+}
